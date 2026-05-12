@@ -4,12 +4,14 @@
 
 ## Project Description
 
-The Diabetes Prediction Analysis Project focuses on exploring patient health data to identify factors that contribute to diabetes outcomes. The project uses data analysis and visualization techniques to examine patterns in patient health metrics such as glucose level, BMI, age, blood pressure, insulin, and pregnancies.    
+The Diabetes Prediction Analysis Project focuses on exploring patient health data to identify factors that contribute to diabetes outcomes. The project uses data analysis and visualization techniques to examine patterns in patient health metrics such as glucose level, BMI, age, blood pressure, insulin, and pregnancies.      
+
 The goal of the project is to provide meaningful insights that can help understand diabetes risk factors and support data-driven healthcare decisions. An interactive dashboard was created using Microsoft Power BI to visualize trends, comparisons, and key performance indicators.
 
 ## Business Problems
 
-Diabetes is a major health challenge affecting millions of people worldwide. Detecting diabetes early can help patients get proper treatment and reduce health risks. Healthcare professionals need to understand how factors like glucose level, BMI, age, and blood pressure affect diabetes in patients.  
+Diabetes is a major health challenge affecting millions of people worldwide. Detecting diabetes early can help patients get proper treatment and reduce health risks. Healthcare professionals need to understand how factors like glucose level, BMI, age, and blood pressure affect diabetes in patients.    
+
 This project analyzes patient health data to identify patterns and trends related to diabetes and presents the findings using charts, reports, and interactive dashboard.
 
 
